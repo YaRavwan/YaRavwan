@@ -1,16 +1,44 @@
-## Hi there 👋
+👋 Привет! Я — Равшан Сайфидинов
+🎮 Unity-разработчик | 💻 Программист | 🚀 Люблю создавать игры и интересные проекты
 
-<!--
-**YaRavwan/YaRavwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💫 Обо мне
+🔧 Мои сильные стороны:
 
-Here are some ideas to get you started:
+Легко интегрируюсь в существующие проекты
+Поддержка всех популярных платформ
+Плавная и понятная настройка
+✨ Почему стоит выбрать меня?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Открытый исходный код
+Активное сообщество и регулярные обновления
+Отличная документация и чистый код
+🎮 Мои игры на Itch.io
+-image -image
+
+🧑‍🎅 Santa Stuck — весёлая новогодняя игра
+🚀 UpFall — вертикальный платформер с уникальной механикой
+🌐 Соцсети и контакты
+Telegram
+GitHub
+Email
+
+💻 Технологии
+C#
+C++
+C
+Unity
+
+📈 GitHub Статистика
+
+
+
+
+🏆 GitHub Достижения
+
+
+🔝 Топ-репозитории
+
+
+📬 Связаться со мной
+📧 Email: yaravwan321@gmail.com
+💬 Telegram: @YaRavwan
